@@ -1,1 +1,0 @@
-This is a sorting func for goit homework
